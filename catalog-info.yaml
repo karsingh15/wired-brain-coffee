@@ -2,10 +2,18 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: wired-brain-coffee
-  description: poc on sonarqube ananlysis dashboash through backstage.
+  # This is an extra long description with Markdown
+  description: |
+    [The Petstore](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
+    - First item
+    - Second item
+  links:
+    - url: https://github.com/karsingh15/wired-brain-coffee
+      title: GitHub Repo
+      icon: github
   annotations:
     sonarqube.org/project-key: sqp_acf083c4bdef48f3ba523bc69099ba2897886368
 spec:
-  type: library
-  owner: karsingh15
+  type: service
   lifecycle: experimental
+  owner: Karan
