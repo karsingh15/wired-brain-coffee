@@ -11,7 +11,7 @@ metadata:
       icon: github
   annotations:
     sonarqube.org/project-key: backstage-poc-key
-    backstage.io/techdocs-ref: url:https://github.com/karsingh15/wired-brain-coffee/blob/master
+    backstage.io/techdocs-ref: url:https://github.com/karsingh15/wired-brain-coffee/blob/master/README
 spec:
   type: service
   lifecycle: experimental
