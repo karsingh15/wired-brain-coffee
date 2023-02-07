@@ -11,7 +11,7 @@ metadata:
       icon: github
   annotations:
     sonarqube.org/project-key: backstage-poc-key
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:docs/
 spec:
   type: service
   lifecycle: experimental
