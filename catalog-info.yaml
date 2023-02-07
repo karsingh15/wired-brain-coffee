@@ -17,3 +17,4 @@ spec:
   owner: team-c
   providesApis:
     - apis-guru
+    - petstore
