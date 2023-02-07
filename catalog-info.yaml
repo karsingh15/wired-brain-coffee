@@ -10,7 +10,7 @@ metadata:
       title: GitHub Repo
       icon: github
   annotations:
-    sonarqube.org/project-key: http://localhost:9000/backstage-poc
+    sonarqube.org/project-key: backstage-poc
 spec:
   type: service
   lifecycle: experimental
