@@ -3,7 +3,7 @@ site_name: 'example-docs'
 
 nav:
   # relative reference to your Markdown file and an optional title
-  - Home: url:https://github.com/karsingh15/wired-brain-coffee/blob/master/README.md
+  - Home: README.md
 
 plugins:
   - techdocs-core
