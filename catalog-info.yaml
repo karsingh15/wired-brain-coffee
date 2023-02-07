@@ -10,7 +10,7 @@ metadata:
       title: GitHub Repo
       icon: github
   annotations:
-    sonarqube.org/project-key: backstage-poc/sqp_acf083c4bdef48f3ba523bc69099ba2897886368
+    sonarqube.org/project-key: backstage-poc
 spec:
   type: service
   lifecycle: experimental
