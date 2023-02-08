@@ -1,5 +1,7 @@
 # You can pass the custom site name here
 site_name: 'example-docs'
+repo_url: https://github.com/karsingh15/wired-brain-coffee
+edit_uri: edit/master/docs
 
 nav:
   # relative reference to your Markdown file and an optional title
