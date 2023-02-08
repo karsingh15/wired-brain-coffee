@@ -3,7 +3,7 @@ site_name: 'example-docs'
 
 nav:
   # relative reference to your Markdown file and an optional title
-  - Home: index.md
+  - Home: 'index.md'
 
 plugins:
   - techdocs-core
