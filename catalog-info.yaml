@@ -17,7 +17,7 @@ spec:
   lifecycle: experimental
   owner: team-c
   dependsOn:
-    - resource:default/domainService
+    - components:domainService
   providesApis:
     - apis-guru
     - petstore
