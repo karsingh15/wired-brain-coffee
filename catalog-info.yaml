@@ -16,6 +16,8 @@ spec:
   type: service
   lifecycle: experimental
   owner: team-c
+  dependsOn:
+    - resource:default/domainService
   providesApis:
     - apis-guru
     - petstore
