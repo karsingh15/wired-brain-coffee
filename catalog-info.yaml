@@ -16,8 +16,10 @@ spec:
   type: service
   lifecycle: experimental
   owner: team-c
+#   dependsOn:
+#     - resource:default/artists-db
   dependsOn:
-    - components:domainService
+    - component:domainService
   providesApis:
     - apis-guru
     - petstore
